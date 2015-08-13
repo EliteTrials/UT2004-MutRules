@@ -1,4 +1,4 @@
-Gives server admins the ability to write a brief message of rules and conveniently display it to your players through the escape menu.
+(See the releases tab for downloads). Gives server admins the ability to write a brief message of rules and conveniently display it to your players through the escape menu.
 
 write in Rules.ini:
 
